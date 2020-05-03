@@ -24,6 +24,6 @@ You can press the indicator above each slide to enable or disable that slide
 
 Plans for next verions
 ------------------------
-Add score
-Add timed mode
-Visual Cleanup
+-Add score
+-Add timed mode
+-Visual Cleanup
