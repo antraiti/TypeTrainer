@@ -1,3 +1,15 @@
+Version A_1.10 (Latest)
+---------------------------------------
+Whats new
+-----------
+This build is a new mode that focuses on finger to finger sprints.
+Start by pressing Space or the button in the top right.
+It will begin a timer and focus on your Left Pinky.
+Score increases with correct hits and disproportionatly decreases with wrong presses.
+When the timer runs out the focus moves to the next finger and begins a new timer.
+Good for quick daily training with a score to track progress.
+
+
 Version A_1.01
 ---------------------------------------
 What is
